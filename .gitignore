@@ -1,0 +1,10 @@
+# Icarus Verilog compilation outputs
+*.out
+*.vcd
+vvp.exe
+
+# GHDL / VHDL compilation artifacts
+*.o
+*.cf
+work-obj93.cf
+
